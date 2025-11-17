@@ -9,7 +9,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1. Import
-2. LOoad Dataset
+2. Load Dataset
 3. Prepare input X and Target Y
 4. Train/Test split
 5. Create and train the linear model
